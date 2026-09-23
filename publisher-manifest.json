@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9892d8d0a50d630992569fbb",
+  "owner": "hhhgjpduk",
+  "repo": "page-2f0664d32b3c25569f2d7935",
+  "title": "极速亚洲(SpeedAsia)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2f0664d32b3c25569f2d7935",
+      "a": "极速亚洲(SpeedAsia)",
+      "b": "2027最新官网",
+      "entity": "极速亚洲(SpeedAsia)",
+      "brand": "极速亚洲(SpeedAsia)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b57c9ab384d7f8f0dc54e0e1cd5247bf7dedde847435c94d40e5ae08d82a8b5c",
+      "content": {
+        "primary_entity": "极速亚洲(SpeedAsia)",
+        "keyword1": "极速亚洲(SpeedAsia)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，极速亚洲把海外访问的稳定性与速度放在首位，按流量、设备数和节点级别划分基础版、旗舰版与团队版三档订阅。基础版每月100GB流量支持3台设备，适合个人轻度使用；旗舰版每月300GB流量支持5台设备，追加IPLC专线游戏加速优化与优先工单；团队版每月1000GB流量支持20台设备，提供VIP专属高带宽节点和企业定制路由。",
+          "AI_HERO_SUBTITLE": "极速亚洲，海外访问稳而快",
+          "AI_HERO_INTRO": "极速亚洲(SpeedAsia)是面向亚太与海外线路的加速服务品牌，通过多档订阅满足不同设备数量与流量需求。用户可根据日常浏览、流媒体或游戏场景，在基础版、旗舰版与团队版之间对比选择。",
+          "AI_VISUAL_TITLE": "极速亚洲 快连海外",
+          "AI_HIGHLIGHT_1": "三档订阅覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线优化",
+          "AI_HIGHLIGHT_3": "年付价格低至每月十元档",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURES_INTRO": "从流量额度、在线设备数和节点级别三个维度对比，能更快定位适合自己的订阅。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版100GB、旗舰版300GB、团队版1000GB，按每月实际用量选择。",
+          "AI_FEATURE_TITLE_2": "按设备定级",
+          "AI_FEATURE_TEXT_2": "3台选基础，5台选旗舰，20台选团队，避免超额占用连接数。",
+          "AI_FEATURE_TITLE_3": "按周期省钱",
+          "AI_FEATURE_TEXT_3": "年付折算更划算，基础版¥150/年、旗舰版¥350/年、团队版¥850/年。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，并按客户端文档导入订阅。手机端可选常用代理工具，桌面端推荐支持订阅链接的客户端。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与节点规格上依次提升。旗舰版额外提供IPLC专线游戏加速优化与7x24优先工单支持，团队版则加入VIP专属高带宽节点与企业定制路由。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_GUIDE_INTRO": "先确认需求，再核对设备适配，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据流量与设备数量，在基础版、旗舰版、团队版中确定一档订阅。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "核对设备系统与在线数量是否在所选套餐的支持范围内。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "打开对应客户端，依照其文档导入订阅地址并完成节点选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，畅连海外",
+          "AI_CLOSING_TEXT": "对照流量与设备数量选定档位，再按客户端指引导入订阅即可开始使用。",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_QUESTION_1": "极速亚洲(SpeedAsia)三档套餐主要差别在哪？",
+          "AI_FAQ_ANSWER_1": "基础版适合 3 台设备与 100GB 月流量，旗舰版增加到 5 台设备、300GB 流量并带 IPLC 专线，团队版支持 20 台设备和 1000GB 流量，适合多人共享。",
+          "AI_FAQ_QUESTION_2": "选择年付比月付能省多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，相当于比按月支付节省两个月费用，长期使用更划算。",
+          "AI_FAQ_QUESTION_3": "订阅链接如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "先确认设备系统和客户端版本，再按对应客户端的使用文档复制订阅地址导入，完成后刷新节点列表即可。",
+          "AI_FAQ_QUESTION_4": "IPLC 专线主要在哪些场景发挥作用？",
+          "AI_FAQ_ANSWER_4": "旗舰版与团队版包含 IPLC 专线，适合对延迟敏感的游戏和实时通信场景，能减少高峰时段的波动。",
+          "AI_FAQ_QUESTION_5": "团队版可以给多个成员使用吗？",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备同时在线，并允许定制路由，适合小型团队或家庭多人共用同一订阅。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jumplinkjc.com",
+    "host": "jumplinkjc.com"
+  },
+  "file_hashes": {
+    "index.html": "9f47231e181a9a2d81d580d11a09b4f5592242d0b6a5a99f7376e707c7bc5ef7",
+    "sitemap.xml": "3df375b273cacc3ad970f3030948b52082ddef8e06d75f5d78454e89fcef52e5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "68c3457a86e3d0c9e0583769ae5a2d8e597db346055143907470d2f9a84965d4",
+    "robots.txt": "7441923a43e80fef0208144882424c1ad0599cd0c1431380d249faad16912e0b",
+    "39416e582c6aa5560db103b4f9abdecd.txt": "6448b8b5c80b39e2c7352aaca6aa4a33e642b221fd78fbbe7b60eccae58500b7"
+  },
+  "revision": "5d9547ea84966f481fb326449028a7dc04058b9d65bea231f841bf9a8f0c24ce"
+}
